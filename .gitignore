@@ -1,0 +1,27 @@
+
+
+
+# Build folders
+build/
+devel/
+install/
+log/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# IDE or editor folders (optional)
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+
+.gym_venv/
+convert.yaml
+*.webm
+rosbag2_*/
+my_converted_mcap_folder
+f1tenth_gym_ros/

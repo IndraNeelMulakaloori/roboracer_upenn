@@ -1,0 +1,4 @@
+talker_node:
+  ros__parameters:
+    v : 2.5
+    d : 3.0
