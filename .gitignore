@@ -6,6 +6,7 @@ build/
 devel/
 install/
 log/
+videos/
 
 # Python compiled files
 *.pyc
@@ -25,3 +26,5 @@ convert.yaml
 rosbag2_*/
 my_converted_mcap_folder
 f1tenth_gym_ros/
+*.csv
+
